@@ -89,11 +89,11 @@ npm start
 ---
 
 ## 📬 Contact
-
-- 📧 Email: [hassanbasma001@gmail.com](mailto:hassanbasma001@gmail.com)
-- 🌐 Portfolio: [basma-portfolio-mu.vercel.app](https://basma-portfolio-mu.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/basma-hassan](https://linkedin.com/in/basma-hassan)
-
+   
+📧 Email: hassanbasma001@gmail.com
+🌐 Portfolio: basma-portfolio-mu.vercel.app
+💼 LinkedIn: Basma Hassan
+📱 WhatsApp: +92 319 1869136
 ---
 
 <p align="center">Made with ❤️ by Basma Hassan</p>
