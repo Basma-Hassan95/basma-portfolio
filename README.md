@@ -1,9 +1,9 @@
 # 🌐 Basma Hassan — Developer Portfolio
 
-[![Live Demo](./public/projects.png)](https://basma-portfolio-mu.vercel.app)
-[![React](./public/resume.png)](https://reactjs.org)
+[![Live Demo](./public/hero.png)](https://basma-portfolio-mu.vercel.app)
+[![React](./public/projects.png)](https://reactjs.org)
 [![TypeScript](./public/skills.png)](https://typescriptlang.org)
-[![Tailwind CSS](./public/contact.png)](https://tailwindcss.com)
+[![Tailwind CSS](./public/resume.png)](https://tailwindcss.com)
 
 > Personal portfolio website showcasing my skills, projects, and experience as a Full Stack & React Native Developer.
 
@@ -89,11 +89,12 @@ npm start
 ---
 
 ## 📬 Contact
-   
-📧 Email: hassanbasma001@gmail.com
-🌐 Portfolio: basma-portfolio-mu.vercel.app
-💼 LinkedIn: Basma Hassan
-📱 WhatsApp: +92 319 1869136
+
+- 📧 Email: [hassanbasma001@gmail.com](mailto:hassanbasma001@gmail.com)
+- 🌐 Portfolio: [basma-portfolio-mu.vercel.app](https://basma-portfolio-mu.vercel.app)
+- 💼 LinkedIn: [Basma Hassan](https://www.linkedin.com/in/basmahassanwebdev/)
+- 📱 WhatsApp: [+92 319 1869136](https://wa.me/923191869136)
+
 ---
 
 <p align="center">Made with ❤️ by Basma Hassan</p>
