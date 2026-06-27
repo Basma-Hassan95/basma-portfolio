@@ -78,7 +78,7 @@ export default function Resume() {
 
   const handleDownload = () => {
     toast.success("Downloading Basma's Resume...");
-    window.open("/Basma_Hassan_Resume.pdf", "_blank");
+    window.open("./public/Basma-FullStackDeveloper.pdf", "_blank");
   };
 
   useEffect(() => {
